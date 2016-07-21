@@ -1,0 +1,22 @@
+{
+  "name": "google-fun-stuff",
+  "version": "1.0.0",
+  "description": "Google Fun Stuff",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "API",
+    "Angular",
+    "JS"
+  ],
+  "author": "Yogesh Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "express": "^4.14.0"
+  }
+}
